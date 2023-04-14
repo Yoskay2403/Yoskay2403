@@ -31,17 +31,17 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@j3mgaming18)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@j3mgaming18)
+[![website](./gambar/youtube-light.svg)](https://www.youtube.com/@j3mgaming18)
+[![website](./gambar/youtube-dark.svg)](https://www.youtube.com/@j3mgaming18)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](https://web.facebook.com/?_rdc=1&_rdr)
-[![website](./img/facebook-dark.svg)](https://web.facebook.com/?_rdc=1&_rdr)
+[![website](./gambar/facebook-light.svg)](https://web.facebook.com/?_rdc=1&_rdr)
+[![website](./gambar/facebook-dark.svg)](https://web.facebook.com/?_rdc=1&_rdr)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/)
+[![website](./gambar/instagram-light.svg)](https://www.instagram.com/)
+[![website](./gambar/instagram-dark.svg)](https://www.instagram.com/)
 
 
 
